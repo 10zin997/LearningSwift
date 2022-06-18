@@ -63,3 +63,25 @@ let generator = LinearCongruentialGenerator()
 print("Here's a random number: \(generator.random())")
 print("And another one: \(generator.random())")
 
+//mutating method requirements
+//@mutating keyword is required in protolol.
+    //and also enumeration and struct but not class
+protocol Toggable{
+    mutating func toggle()
+}
+
+enum OnOffSwitch: Toggable{
+    case on
+    case off
+    mutating func toggle(){
+        switch self{
+        case .off:
+            self = .on
+        case .on:
+            self = .off
+        }
+    }
+}
+var lightSwitch = OnOffSwitch.off
+lightSwitch.toggle()
+print(lightSwitch)
