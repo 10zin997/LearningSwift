@@ -4,9 +4,11 @@
 ###Learning swift through coding and conceptual process.
 [https://docs.swift.org](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 ## References
-   <details>
-             -[https://docs.swift.org](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+   <Use this book to follow along the playground folder and the pdf>
+            - (https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
            
-        </details>
+    <Use this website for Exercises>
+   
+            - https://www.w3resource.com/swift-programming-exercises/
 
 
