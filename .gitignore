@@ -1,2 +1,3 @@
 # ignore ALL files in ANY directory named Swift_Documentation.docx
-Swift_Documentation.docx/
+Swift_Documentation.docx
+~$iftDocumentation.docx
