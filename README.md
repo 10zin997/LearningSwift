@@ -7,8 +7,9 @@
    <details>
             <summary> Book used for playground, pdf, and exercise </summary>
             - (https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
-   
-            - (https://www.w3resource.com/swift-programming-exercises/)
+   <br></br>
+            - (https://www.w3resource.com/swift-programming-exercises)
+       
     </details>
 
 
